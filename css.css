@@ -169,6 +169,13 @@ header button:hover {
   padding: 20px;
 }
 
+.hero-img {
+  padding: 80px 40px 0px;
+}
+
+.hero-img img {
+  width: 750px;
+}
 .social-icon {
   margin-top: 10px;
   display: flex;
